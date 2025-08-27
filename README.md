@@ -13,7 +13,7 @@
 
 Aqui estão alguns projetos que estou desenvolvendo ou concluí:
 
-- [https://github.com/frbl1238000/backer-end_DOCKER](#) - Pequena descrição do projeto. .
+- [https://github.com/frbl1238000/backer-end_DOCKER](#) -.
 
 
 ## 🌱 Estou Aprendendo
