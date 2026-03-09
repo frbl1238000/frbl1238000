@@ -17,11 +17,10 @@ Estudante de cibersegurança e desenvolvedor backend apaixonado por **segurança
 
 **Bancos de Dados:**  
 - Relacionais: PostgreSQL, MySQL  
-- Não-relacionais: MongoDB, Redis  
+
 
 **Segurança:**  
 - Conceitos de Cybersecurity  
-- Monitoramento e análise de logs  
 - Gerenciamento de riscos e vulnerabilidades  
 
 **Ferramentas:**  
