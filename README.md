@@ -1,29 +1,60 @@
-# 👩‍💻RICARDO BARBOSA
+# Ricardo Barbosa  
+**Aspiring Cybersecurity & Backend Developer**  
+📍 Pedra Branca, Brasil | ✉ ricardo@email.com | 💻 
 
-**💻 Estudante de Desenvolvimento Web | Apaixonado por criar aplicações com Node.js, JavaScript, PostgreSQL e Docker. Sempre aprendendo novas tecnologias e boas práticas para construir soluções eficientes e escaláveis. 🚀**
+---
 
-**'DESENVOLVEDOR BACK-END'**
+## Sobre Mim
+Estudante de cibersegurança e desenvolvedor backend apaixonado por **segurança de sistemas, análise de vulnerabilidades e desenvolvimento de APIs seguras**. Experiência prática em **Python, TypeScript, Node.js e bancos de dados**. Comprometido com boas práticas de programação e segurança, e motivado a aplicar conhecimento em projetos reais.
 
-## 🛠 Tecnologias e Ferramentas
+---
 
-- **Linguagens:** JavaScript, Node.js
-- **Desenvolvimento Web:** HTML, CSS, frameworks modernos (ex.: Express.js, prisma)
+## Habilidades Técnicas
 
-## 💻 Projetos
+**Linguagens e Frameworks:**  
+- Python, TypeScript, JavaScript  
+- Node.js, Express, Prisma  
 
-Aqui estão alguns projetos que estou desenvolvendo ou concluí:
+**Bancos de Dados:**  
+- Relacionais: PostgreSQL, MySQL  
+- Não-relacionais: MongoDB, Redis  
 
-- [https://github.com/frbl1238000/backer-end_DOCKER](#) -.
+**Segurança:**  
+- Conceitos de Cybersecurity  
+- Monitoramento e análise de logs  
+- Gerenciamento de riscos e vulnerabilidades  
+
+**Ferramentas:**  
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Docker (básico)  
+
+---
+
+## Projetos Destacados no GitHub
+
+### 1. Projeto Final Backend
+- Backend em TypeScript com Express e Prisma  
+- Integração com PostgreSQL  
+- Funcionalidades CRUD e autenticação segura  
 
 
-## 🌱 Estou Aprendendo
+### 2. Scripts de Segurança / Pentest
+- Exemplos de análise de logs e detecção de vulnerabilidades  
+- Simulações de SQL Injection em ambientes de laboratório  
 
-- Aplicações full-stack com Node.js  
-- Boas práticas em desenvolvimento web  
-- Integração de bancos de dados em aplicações web  
-- Orquestração de ambientes com Docker  
 
-## 📫 Como me encontrar
+### 3. Estudos em Cybersecurity
+- Resumos e exercícios do curso de Google Cybersecurity  
+- Práticas de gerenciamento de riscos e proteção de dados  
+- [Link do Repositório](#) *(https://github.com/frbl1238000/frbl1238000/edit/main/README.md)*
+
+---
+
+## Formação Acadêmica
+- **Certificação em Fundamentos de Cybersecurity** – Google / Coursera (em andamento)  
+- **Ensino Superior / Técnico defesa cybernetica  (em andamentor) 
 
  
 - LinkedIn: [https://www.linkedin.com/in/ricardo-barbosa-a08677376/](#)  
