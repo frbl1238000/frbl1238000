@@ -34,27 +34,19 @@ Estudante de cibersegurança e desenvolvedor backend apaixonado por **segurança
 
 ## Projetos Destacados no GitHub
 
-### 1. Projeto Final Backend
+###  Projeto Final Backend
 - Backend em TypeScript com Express e Prisma  
 - Integração com PostgreSQL  
 - Funcionalidades CRUD e autenticação segura  
 
 
-### 2. Scripts de Segurança / Pentest
-- Exemplos de análise de logs e detecção de vulnerabilidades  
-- Simulações de SQL Injection em ambientes de laboratório  
 
-
-### 3. Estudos em Cybersecurity
-- Resumos e exercícios do curso de Google Cybersecurity  
-- Práticas de gerenciamento de riscos e proteção de dados  
-- [Link do Repositório](#) *(https://github.com/frbl1238000/frbl1238000/edit/main/README.md)*
 
 ---
 
 ## Formação Acadêmica
 - **Certificação em Fundamentos de Cybersecurity** – Google / Coursera (em andamento)  
-- **Ensino Superior / Técnico defesa cybernetica  (em andamentor) 
+- **Ensino Superior / Técnico defesa-cybernetica  (em andamentor) 
 
  
 - LinkedIn: [https://www.linkedin.com/in/ricardo-barbosa-a08677376/](#)  
