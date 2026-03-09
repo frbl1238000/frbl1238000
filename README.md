@@ -1,6 +1,6 @@
 # Ricardo Barbosa  
 **Aspiring Cybersecurity & Backend Developer**  
-📍 Pedra Branca, Brasil | ✉ ricardo@email.com | 💻 
+📍 Pedra Branca, Brasil | ✉ barbosa1238000@gmail.com| 💻 
 
 ---
 
