@@ -16,7 +16,7 @@ Estudante de cibersegurança e desenvolvedor backend apaixonado por **segurança
 - Node.js, Express, Prisma  
 
 **Bancos de Dados:**  
-- Relacionais: PostgreSQL, MySQL  
+- Relacionais: PostgreSQL 
 
 
 **Segurança:**  
@@ -44,9 +44,8 @@ Estudante de cibersegurança e desenvolvedor backend apaixonado por **segurança
 ---
 
 ## Formação Acadêmica
-- **Certificação em Fundamentos de Cybersecurity** – Google / Coursera (em andamento)  
 - **Ensino Superior / Técnico defesa-cybernetica  (em andamentor) 
-
+- * estudando para a certificação comptia sec+
  
 - LinkedIn: [https://www.linkedin.com/in/ricardo-barbosa-a08677376/](#)  
-- Email: barbosa12380002@gmail.com
+- Email: barbosa1238000@gmail.com
